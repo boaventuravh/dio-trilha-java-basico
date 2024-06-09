@@ -6,6 +6,8 @@ Desafio proposto como requisito de conclusão do bootcamp _Santander 2024 - Back
 
 ## Diagrama
 
+Segue abaixo o diagrama proposto pelo desafio
+
 ```mermaid
 classDiagram
 class Iphone {
